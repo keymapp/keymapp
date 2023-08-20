@@ -9,8 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Emily-Developer&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-Developer&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Emily-Developer&limit=5&theme=dracula&combine_all_yearly_contributions=true)
