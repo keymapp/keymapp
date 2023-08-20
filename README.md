@@ -14,6 +14,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Emily-Developer&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Emily-Developer&icon=2&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Emily-Developer&icon=2&color=1000)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
