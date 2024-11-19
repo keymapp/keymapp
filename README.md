@@ -1,53 +1,66 @@
-<h2 align="left">Hi 👋! My name is Keyla and I'm a programmer from Canada</h2>
+# ¡Hola! Soy Keymapp 👋
 
-###
+Soy un desarrollador apasionado por la tecnología, el código y la creación de proyectos interesantes. Siempre estoy buscando aprender algo nuevo y mejorar mis habilidades. ¡Bienvenido a mi perfil de GitHub!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keymapp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keymapp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![Perfil](https://media.giphy.com/media/l0MYsMl39H21aRRzK/giphy.gif)
 
-###
+## 🛠️ Tecnologías y herramientas
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+Aquí están algunas de las tecnologías con las que me siento cómodo trabajando:
 
-###
+- 💻 **Lenguajes de programación**: 
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+- 🛠️ **Herramientas**: 
+  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+  - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-###
+## 📊 Estadísticas
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+¡Aquí están algunas estadísticas de mi actividad en GitHub!
 
-###
+![Keymapp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keymapp&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
 
-<br clear="both">
+## 🚀 Mis proyectos destacados
 
-<img src="https://raw.githubusercontent.com/keymapp/keymapp/output/snake.svg" alt="Snake animation" />
+1. **[Proyecto 1](https://github.com/keymapp/proyecto1)**  
+   Un pequeño resumen de lo que trata el proyecto. ¡Explóralo! 🚀
 
-###
+2. **[Proyecto 2](https://github.com/keymapp/proyecto2)**  
+   Descripción del proyecto. ¡Haz un vistazo! 🌟
+
+3. **[Proyecto 3](https://github.com/keymapp/proyecto3)**  
+   Otro proyecto interesante que hice. ¡Mira cómo funciona! 🔧
+
+## 🌱 ¿Qué estoy aprendiendo?
+
+Actualmente estoy aprendiendo más sobre:
+
+- **Desarrollo de Backend** con Node.js y Express
+- **Bases de datos** como PostgreSQL y MongoDB
+- **DevOps** y contenedores Docker
+
+## 📫 ¿Cómo contactarme?
+
+Si quieres hablar sobre tecnología, desarrollo o proyectos, ¡no dudes en contactarme!
+
+- **Twitter**: [@keymapp_dev](https://twitter.com/keymapp_dev)
+- **LinkedIn**: [keymapp](https://www.linkedin.com/in/keymapp/)
+- **Correo**: keymapp@example.com
+
+## ⚡ Datos divertidos sobre mí
+
+- Siempre tengo una taza de café a mano ☕
+- Me encanta aprender nuevos lenguajes de programación 🌐
+- ¡Soy fan de los videojuegos! 🎮
+
+---
+
+¡Gracias por visitar mi perfil! 😄  
+¡Vamos a crear algo increíble juntos! 💻🚀
