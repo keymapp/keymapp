@@ -29,41 +29,6 @@
 
 <hr>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="30" alt="aarch64 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cmake/064F8C" height="30" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/lua/2C2D72" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="30" alt="neovim logo"  />
-</div>
 
 ###
 
@@ -107,9 +72,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/keymapp/count.svg?"  />
-</div>
 
 ###
 
