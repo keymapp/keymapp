@@ -26,6 +26,11 @@
 ----------------------------------------------------------------------
  
 ```
-
+<div align="center">
+  <a target="_blank" href="https://www.codewars.com/users/ChemaAlfonso">
+    <img src="https://www.codewars.com/users/keymapp/badges/large" alt="Badges de Codewars" />
+  </a>
+</div>
+&nbsp;
 
 <hr>
