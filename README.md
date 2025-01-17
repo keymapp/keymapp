@@ -27,7 +27,7 @@
  
 ```
 <div align="center">
-  <a target="_blank" href="https://www.codewars.com/users/ChemaAlfonso">
+  <a target="_blank" href="https://www.codewars.com/users/keymapp">
     <img src="https://www.codewars.com/users/keymapp/badges/large" alt="Badges de Codewars" />
   </a>
 </div>
